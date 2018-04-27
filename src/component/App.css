@@ -1,0 +1,74 @@
+.button1, .button2{
+  background-color:black;
+  color: white;
+  border: 1px solid black;
+  border-radius:8px;
+}
+
+.counter1{
+  border: 2px solid black
+}
+
+.App {
+  text-align: center;
+}
+.calci{
+border: 1px solid black;
+width: 150px;
+height: 280px;
+margin: 0 auto;
+border-radius: 5px;
+}
+
+.calcibutton{
+  background-color: black;
+  color: white;
+  border:black;
+  width: 30px;
+  height: 30px;
+}
+.display{
+  border: 1px solid black;
+  width:120px;
+  margin: 0 auto;
+  height: 20px;
+  box-sizing: border-box;
+  font-size: 1vw;
+}
+
+.resultfinal{
+  border: 1px solid black;
+  width:120px;
+  margin: 0 auto;
+  height: 20px;
+  font-size: 1vw;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color
+  : #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  margin: 0 auto;
+  font-size: large;
+  border: 1px solid black;
+  width: 500px
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
